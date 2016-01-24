@@ -9,9 +9,9 @@ layout: default
     <div class="container-fluid">
         <div class="mast">
             <h1>Dhruv Jain</h1>
- 
+     
             <a target="_blank" href="http://github.com/naveenshaji/material" class="{{ site.css }} darken-2 white-text text-darken-3 waves-effect waves-light btn"><i class="mdi-action-get-app"></i> View on github</a><br>
-            <!-- <i class="mdi-navigation-arrow-drop-down" style="font-size: 200px;"></i> -->
+            <i class="mdi-navigation-arrow-drop-down" style="font-size: 200px;"></i>
         </div>
     </div>
 
